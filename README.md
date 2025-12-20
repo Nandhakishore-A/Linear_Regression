@@ -31,9 +31,10 @@ Project Structure.
 How to Run Locally
 If you want to run this project on your own computer, follow these steps:
 
-1.Clone the Repository git clone 
-https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+1.Clone the Repository:
+git clone: https://github.com/Nandhakishore-A/Linear_Regression.git
+cd Linear_Regression
+
 
 2.Install Dependencies
 Make sure you have Python installed, then run:
