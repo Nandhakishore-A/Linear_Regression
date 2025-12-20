@@ -6,6 +6,7 @@ A Machine Learning web application that predicts daily temperature based on feat
 
 Live Demo:
 Click here to view the Live App
+https://linearregression00.streamlit.app/
 
 About the Project:
 This project uses a Linear Regression model trained on weather data. The goal is to predict the daily temperature based on user-provided environmental inputs.
